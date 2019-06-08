@@ -1,4 +1,4 @@
-console.log("Client side js");
+//console.log("Client side js");
 /**
  * test fetch
  */
